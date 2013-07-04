@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://qnork.de/sitemap.xml 
