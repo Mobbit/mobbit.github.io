@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Qnork]]></title>
+  <link href="http://Mobbit.github.io/atom.xml" rel="self"/>
+  <link href="http://Mobbit.github.io/"/>
+  <updated>2013-07-28T13:57:21+02:00</updated>
+  <id>http://Mobbit.github.io/</id>
+  <author>
+    <name><![CDATA[Martin Otten]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[radfahren_fussgaenger_und_andere_probleme]]></title>
+    <link href="http://Mobbit.github.io/blog/2013/07/01/radfahren-fussgaenger-und-andere-probleme/"/>
+    <updated>2013-07-01T14:15:00+02:00</updated>
+    <id>http://Mobbit.github.io/blog/2013/07/01/radfahren-fussgaenger-und-andere-probleme</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
